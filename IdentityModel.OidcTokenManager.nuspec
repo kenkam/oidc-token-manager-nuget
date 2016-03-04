@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IdentityModel.OidcTokenManager</id>
+    <title>oidc-token-manager</title>
+    <version>1.2.0</version>
+    <authors>Brock Allen</authors>
+    <owners>kenkam</owners>
+    <licenseUrl>https://github.com/IdentityModel/oidc-token-manager/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/IdentityModel/oidc-token-manager</projectUrl>
+    <iconUrl>https://avatars2.githubusercontent.com/u/10657636?v=3&amp;s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library to manage tokens obtained via OpenID Connect (OIDC)</description>
+    <summary>Library to manage and validate tokens obtained via OpenID Connect (OIDC) in Javascript.</summary>
+    <releaseNotes>https://github.com/IdentityModel/oidc-token-manager/releases/tag/1.2.0</releaseNotes>
+    <copyright>https://github.com/IdentityModel/oidc-token-manager/blob/master/LICENSE</copyright>
+    <tags>oidc-token-manager</tags>
+  </metadata>
+  <files>
+    <file src="bower_components/oidc-token-manager/dist/oidc-token-manager.js" target="content\Scripts\oidc-token-manager\oidc-token-manager.js" />
+    <file src="bower_components/oidc-token-manager/dist/oidc-token-manager.min.js" target="content\Scripts\oidc-token-manager\oidc-token-manager.min.js" />
+  </files>
+</package>

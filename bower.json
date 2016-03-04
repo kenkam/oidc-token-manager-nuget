@@ -1,0 +1,25 @@
+{
+  "name": "oidc-token-manager-nuget",
+  "homepage": "https://github.com/kenkam/oidc-token-manager-nuget",
+  "authors": [
+    "Kenneth Kam <kenkam@gmail.com>"
+  ],
+  "description": "Bower for installing oidc-token-manager",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "oidc-token-manager"
+  ],
+  "license": "Apache",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "oidc-token-manager": "^1.2.0"
+  }
+}
